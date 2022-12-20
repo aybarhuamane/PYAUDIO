@@ -1,9 +1,2 @@
 venv
-.\app.py
-*.wav
-./framer
-recorder
-./libs
-__pycache__
-*.txt
-./Nueva_carpeta
+libs

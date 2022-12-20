@@ -1,0 +1,9 @@
+./libs/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+SpeechRecognition==3.9.0
+google-api-python-client==2.70.0
+PyQt5==5.15.7
+
+matplotlib==3.6.2
+numpy==1.23.5
+scipy==1.9.3
+pyqtgraph==0.13.1

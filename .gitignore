@@ -1,5 +1,5 @@
 venv
-app.py
+.\app.py
 *.wav
 ./framer
 recorder

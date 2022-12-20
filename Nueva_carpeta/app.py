@@ -22,7 +22,7 @@ class Aplicacion(QApplication):
 	def refresh_app(self):
 		self.processEvents()
 		
-
+		
 
 def main():
 	app = Aplicacion()

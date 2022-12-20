@@ -1,0 +1,18 @@
+>>recorder.py
+    FUNCTION  recordAudio --->  FUNCTION   start_recording  (  callback,finalAudio)
+
+
+   #  FUNCTION  finalAudio
+
+   RECONOCIMIENTO  DE VOZ
+
+    # recordAudio 
+
+> APP.PY
+
+
+
+# TABLA DE CABEZERA
+self.interface.updateTable  in recorder.py
+
+#  saveAudio  in recorder.py   -> cbezera
